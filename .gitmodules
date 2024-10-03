@@ -1,3 +1,6 @@
 [submodule "Independent_Component_Analysis"]
 	path = Independent_Component_Analysis
 	url = https://github.com/akcarsten/Independent_Component_Analysis.git
+[submodule "BrainComputerInterfaces"]
+	path = BrainComputerInterfaces
+	url = https://github.com/liammchugh/BrainComputerInterfaces.git
