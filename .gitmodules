@@ -4,3 +4,6 @@
 [submodule "BrainComputerInterfaces"]
 	path = BrainComputerInterfaces
 	url = https://github.com/liammchugh/BrainComputerInterfaces.git
+[submodule "Solar_Satellite"]
+	path = Solar_Satellite
+	url = https://github.com/liammchugh/Solar_Satellite.git
