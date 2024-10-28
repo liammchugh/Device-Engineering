@@ -1,5 +1,5 @@
 # Device-Engineering
-Documentation and Programming Workspace contains ANS Headphones, BCI Modulator, Solar Satellite
+Documentation and Programming Workspace contains ANS Headphones, BCI Modulator, Solar Satellite, Coffee Roaster, MicroSuture
 
 #### Device Engineering Documentation and Programming Workspace
 
